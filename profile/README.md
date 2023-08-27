@@ -1,6 +1,6 @@
 # Hello There Friend 👋
 
-**R.A.Z.R.O.O** - Rapidly Automatic Zenith Reaching Out of Orbit
+**R.A.Z.R.O.O** - _Rapidly Automatic Zenith Reaching Out of Orbit_
 
 Our team has worked on this very ambitious idea for 5 years, and is now ready to offer the world this wonderful new technology! 
 
