@@ -10,7 +10,7 @@ Looking to create an Enterprise starter repo and looking for something you can t
 
 https://github.com/razroo/.github/assets/8540141/96562c5e-1297-49c5-9f5a-62e57412a69f
 
-## Razroo is a Software Architect as an Application 
+## Razroo | Software Architect as an Application 
 
 Also, feel free to try out our innovative, revolutionary flagship application [razroo.com](http://razroo.com), which is a **Software Architect as an Application**.
 
