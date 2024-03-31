@@ -1,4 +1,4 @@
-# Razroo : Human Collective Intelligence 👋
+# Razroo: Human Collective Intelligence 👋
 
 **R.A.Z.R.O.O** - _Rapidly Automatic Zenith Reaching Out of Orbit_
 
