@@ -1,14 +1,14 @@
-# Razroo: Human Collective Intelligence 👋
+# Razroo: Synthetic Data and AI Simulations
 
 **R.A.Z.R.O.O** - _Rapidly Automatic Zenith Reaching Out of Orbit_
 
-Our team has worked on this very ambitious idea for 5 years, and is now ready to offer the world this new wonderful technology! 
+We've been working on Razroo for a while. Our goal is to allow humans at scale to contribute and then integrate seamlessly, at a production grade level with whatever.
+
+The vision is make humans an integral part of the data process, but it can be open enough wherein anyone can contribute. If AI becomes integrated enough this is 10s of thousands of people potentially making their livelihood off of AI contributions. 
+
+In addition, millions of people using this production-grade AI for their day to day.
 
 
-## Razroo | Software Architect as an Application 
-
-Feel free to try out our innovative, revolutionary flagship application [razroo.com](http://razroo.com), which is a **Software Architect as an Application**.
-
-![Untitled design (3)](https://github.com/razroo/.github/assets/8540141/99569351-cf4d-4eb9-8fd6-01e743260633)
+Try out razroo for yourself today over at razroo.com!
 
 
